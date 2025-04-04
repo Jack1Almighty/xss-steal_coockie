@@ -1,3 +1,5 @@
+This labs only for education purpose. Don't use it in your infrastructure.
+
   First of all, try to install node_modules: npm install
   Then run attacker and server: node attacker.js, node server.js
   Paste payload in server input field: 
